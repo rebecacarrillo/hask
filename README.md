@@ -15,3 +15,6 @@ FP FTW
 - [ ] link a list of docs
 
 ---------
+## Links
+
+ - [CAPTAINS_LOG](CAPTAINS_LOG.md)
